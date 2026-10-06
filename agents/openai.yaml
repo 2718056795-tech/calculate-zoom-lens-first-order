@@ -1,0 +1,4 @@
+interface:
+  display_name: "变焦镜头一阶计算"
+  short_description: "计算三组与四组变焦镜头的一阶焦距、间距、运动与结果文件"
+  default_prompt: "使用 $calculate-zoom-lens-first-order 计算变焦镜头一阶布局并导出结果。"
